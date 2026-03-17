@@ -1,12 +1,15 @@
-# HTML Authentication POC
+# Authentication System Styled
 
-This project contains 5 simple HTML pages:
+This project is a styled authentication system using Bootstrap 5.
 
-- login.html
-- register.html
-- forgot-password.html
-- reset-password.html
-- dashboard.html
+## Pages
+- Login
+- Register
+- Forgot Password
+- Reset Password
+- Dashboard
 
-All pages are connected using anchor tags for navigation.  
-No CSS or JavaScript is used.
+## Technologies
+- HTML
+- Bootstrap 5
+- CSS
